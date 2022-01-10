@@ -1,1 +1,1 @@
-FROM itf-chartizate-android
+FROM circleci/android:api-30
