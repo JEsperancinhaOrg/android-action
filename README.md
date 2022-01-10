@@ -6,7 +6,7 @@
 ## Example usage
 
 ```yml
-- uses: jesperancinhaorg/android-action@0.0.0
+- uses: jesperancinhaorg/android-action@v0.0.1
 ```
 
 ## References
