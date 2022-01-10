@@ -1,4 +1,4 @@
-name: 'JEsperancinhaOrg' Android Action
+name: 'JEsperancinhaOrg Android Action'
 description: 'Allows usage of the Android SDK in GitHub Pipelines'
 runs:
   using: 'docker'
