@@ -1,7 +1,9 @@
 name: 'JEsperancinhaOrg Android Action'
 description: 'Allows usage of the Android SDK in GitHub Pipelines'
-icon: package
-color: green
+author: 'João Esperancinha <jofisaes@gmail.com>'
+branding:
+    icon: 'package'
+    color: 'green'
 runs:
   using: 'docker'
   image: 'Dockerfile'
