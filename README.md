@@ -20,6 +20,19 @@ The image source is one from CircleCI at [circleci/android:api-30](https://hub.d
 -   uses: jesperancinhaorg/android-action@v0.0.1
 ```
 
+## Example projects
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=ping-app-android%20🏓&color=informational)](https://github.com/jesperancinha/ping-app-android)
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=itf-chartizate-android🧿&color=informational)](https://github.com/JEsperancinhaOrg/itf-chartizate-android)
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=catcher-app-android%20🔮&color=informational)](https://github.com/jesperancinha/catcher-app-android)
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=matrix-anywhere-android%20⏹&color=informational)](https://github.com/jesperancinha/matrix-anywhere-android)
+
+[![Generic badge](https://img.shields.io/static/v1.svg?label=GitHub&message=ITF%20Android🧿&color=informational)](https://github.com/jesperancinha/image-train-filters-android)
+
+
 ## References
 
 -   [Creating a Docker container action](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)
