@@ -38,7 +38,7 @@ The image source is one from CircleCI at [circleci/android:api-30](https://hub.d
 -   [Creating a Docker container action](https://docs.github.com/en/actions/creating-actions/creating-a-docker-container-action)
 -   [Publishing actions in GitHub Marketplace](https://docs.github.com/en/actions/creating-actions/publishing-actions-in-github-marketplace#publishing-an-action)
 
-## About me 👨🏽‍💻🚀🏳️‍🌈
+## About me
 
 [![alt text](https://raw.githubusercontent.com/jesperancinha/project-signer/master/project-signer-templates/icons-20/JEOrgLogo-20.png "João Esperancinha Homepage")](http://joaofilipesabinoesperancinha.nl)
 [![GitHub followers](https://img.shields.io/github/followers/jesperancinha.svg?label=Jesperancinha&style=social "GitHub")](https://github.com/jesperancinha)
