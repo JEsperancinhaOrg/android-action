@@ -1,1 +1,1 @@
-FROM circleci/android:api-30
+FROM cimg/android:2023.04.1
