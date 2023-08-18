@@ -8,3 +8,6 @@ docker:
 test: build docker
 docker-rm:
 	docker rmi test
+docker-stop:
+	docker ps | grep test | cut -d' ' -f1 | xargs -I {} docker stop {}
+	docker ps | grep test | cut -d' ' -f1 | xargs -I {} docker rm {}
